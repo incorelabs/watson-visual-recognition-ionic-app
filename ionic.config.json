@@ -1,0 +1,8 @@
+{
+  "name": "snakeSpecies",
+  "app_id": "e09291d2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
