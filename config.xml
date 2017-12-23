@@ -3,7 +3,7 @@
     <name>Snake Species</name>
     <description>An App to identify Snake Species by either taking pictures from the Camera or selecting from the Gallery</description>
     <author email="rushil.chander@gmail.com" href="http://ionicframework.com/">Rushil Chander</author>
-	<author email="pandey.neelabh@outlook.com" href="http://ionicframework.com/">Neelabh Pandey</author>
+    <author email="pandey.neelabh@outlook.com" href="http://ionicframework.com/">Neelabh Pandey</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
